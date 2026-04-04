@@ -1,4 +1,5 @@
 
+
 <h1 align="center"><b>Hi , I'm Abdul Haiy </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
@@ -13,7 +14,7 @@
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://www.freepik.com/free-ai-image/cyber-security-expert-working-with-technology-neon-lights_236256755.htm#fromView=keyword&page=1&position=46&uuid=420c0bd1-7391-4af4-8e5e-a0ea1b3a1684&query=Cartoon+software+engineer" width = 250px></picture>
+<picture> <img align="right" src="https://i.pinimg.com/736x/7c/43/3e/7c433e7273948204d875ee5cdcf218ff.jpg" width = 250px></picture>
 
 <br>
 
@@ -24,7 +25,7 @@
 
 <br><br>
 
-<img src="https://www.freepik.com/vectors/software-engineer"><br><br>
+<img src=""><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
@@ -65,8 +66,8 @@
 
 - **Extras**:
 
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
+    [Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
+    [Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
 
 
 </p>
@@ -84,9 +85,9 @@
 
 <div align="center">
 
-<a href="https://github.com/0xabdulkhalid/">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xabdulkhalid&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xabdulkhalid&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
+<a href="https://github.com/spike-commander/">
+  <img src="![My GitHub stats](https://vercel.app)" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=spike-commander&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="spike-commander"/>
 
 </a>
 </div>
@@ -100,31 +101,31 @@
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Let's Connect..!</b><img src="https://www.citypng.com/public/uploads/preview/hd-handshake-white-icon-symbol-transparent-background-701751695033308tsxczdrfh3.png" width ="80">
 <br>
 <div align='left'>
 
 <ul>
 
 <li>
-<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<a href="https://www.linkedin.com/in/spike-commander/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  spike_commander-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
 <br>
 
 <li>
-<a href="https://twitter.com/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+<a href="https://x.com/abdulhaiy1502" target="_blank">
+<img src="https://img.shields.io/badge/twitter:  spike_commander-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
 
 <br>
 
 <li>
-<a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<a href="mailto:abdulhaiy1502@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  spike_commander-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
@@ -150,7 +151,3 @@
 ---
 
 <br>
-
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
-
-Last Edited on: 09/11/2022
