@@ -18,7 +18,7 @@
 
 ## 🔗 Connect With Me
 <p align="center">
-  <a href="https://www.codewars.com/users/spike-commander/badges/large"></a>
+  ![Codewars Profile](https://www.codewars.com/users/spike-commander/badges/large)
 </p>
 
 <p align="center">
