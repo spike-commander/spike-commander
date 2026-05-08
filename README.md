@@ -17,7 +17,7 @@
 ---
 
 ## 🔗 Connect With Me
-
+<img src="https://www.codewars.com/users/spike-commander/badges/large">
 <p align="center">
   <a href="https://www.linkedin.com/in/spike-commander/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
