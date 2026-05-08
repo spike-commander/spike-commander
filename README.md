@@ -18,8 +18,8 @@
 
 ## 🔗 Connect With Me
 <p align="center">
-  <a href="https://www.codewars.com/users/spike-commander/">
-    <img src="[codewars.com](https://www.codewars.com/users/spike-commander/badges/large)" alt="Codewars Profile">
+  <a href="https://www.codewars.com/users/spike-commander/badges/large">
+    <img src="https://www.codewars.com/users/spike-commander" alt="Codewars Profile">
   </a>
 </p>
 
