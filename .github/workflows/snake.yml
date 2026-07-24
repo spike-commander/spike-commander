@@ -17,17 +17,14 @@ jobs:
         with:
           github_user_name: spike-commander
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            github-contribution-grid-snake.svg
+            github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git checkout --orphan output
-          git rm -rf .
-          mv dist/* .
-          rmdir dist
-          git add .
+          git add github-contribution-grid-snake*.svg
           git commit -m "Update snake"
           git push origin output --force
