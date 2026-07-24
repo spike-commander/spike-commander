@@ -48,13 +48,9 @@ philosophy: "Talk is cheap. Show me the code."
 
 <div align="center">
 
-| Streak | Stats |
-|:------:|:-----:|
-| ![GitHub Streak](https://streak-stats.demolab.com/?user=spike-commander&theme=dark&hide_border=true&background=0D1117) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=spike-commander&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff) |
-
-| Languages | Activity |
-|:---------:|:--------:|
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spike-commander&layout=compact&hide_border=true&bg_color=0D1117&text_color=c9d1d9&langs_count=8) | ![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=spike-commander&bg_color=0D1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&radius=8) |
+| Streak | Activity |
+|:------:|:--------:|
+| ![GitHub Streak](https://streak-stats.demolab.com/?user=spike-commander&theme=dark&hide_border=true&background=0D1117) | ![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=spike-commander&bg_color=0D1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&radius=8) |
 
 </div>
 
