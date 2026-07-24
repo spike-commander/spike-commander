@@ -5,17 +5,20 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
       - uses: Platane/snk@v3
         with:
           github_user_name: spike-commander
           outputs: |
-            github-contribution-grid-snake.svg
-            github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - run: |
@@ -23,7 +26,8 @@ jobs:
           git config user.email "github-actions@github.com"
           git checkout --orphan output
           git rm -rf .
-          mv ../github-contribution-grid-snake* .
+          mv dist/* .
+          rmdir dist
           git add .
           git commit -m "Update snake"
           git push origin output --force
