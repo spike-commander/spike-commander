@@ -24,7 +24,7 @@
 ```yaml
 name: Abdul Haiy
 location: Jabalpur, India 🇮🇳
-education: B.Tech Computer Science (2021–2025)
+education: B.Tech Computer Science (2026–2030)
 current: Freelance Full-Stack Developer & Security Researcher
 
 fields_of_interest:
