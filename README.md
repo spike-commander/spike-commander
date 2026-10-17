@@ -58,59 +58,40 @@ philosophy: "Talk is cheap. Show me the code. Or better yet, show me the testben
 
 ## 🛠️ Tech Stack
 
-### Core Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=fff)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=fff)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=fff)
-![Rust](https://img.shields.io/badge/-Rust-000?style=flat-square&logo=rust&logoColor=fff)
+### 💻 Hardware Description & Verification
+![Verilog](https://shields.io🚀?style=flat-square&color=2C3E50)
+![Icarus Verilog](https://shields.io)
+![GTKWave](https://shields.io)
+![Digital Circuit Design](https://shields.io)
 
-### Frontend
+### ⚙️ Systems Languages & Automation
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=fff)
+![C / C++](https://shields.io)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=fff)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=000)
+
+### 🌐 Full-Stack Architecture
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js&logoColor=fff)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=fff)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff)
-
-### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=fff)
-![Express](https://img.shields.io/badge/-Express-000?style=flat-square&logo=express&logoColor=fff)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=fff)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=fff)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=fff)
-
-### Database
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=fff)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=fff)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=fff)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=fff)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=fff)
-
-### AI/ML & Tools
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=fff)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=fff)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=fff)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=000)
 
 ---
 
-## 📜 Certifications
+## 📜 Focus & Core Areas
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS_Certified_Solutions_Architect-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=fff" alt="AWS">
+  <img src="https://shields.io" alt="RTL Design">
   &nbsp;
-  <img src="https://img.shields.io/badge/Deep_Learning_Specialization-01D277?style=for-the-badge&logo=deeplearning.ai&logoColor=fff" alt="DeepLearning.ai">
+  <img src="https://shields.io" alt="Digital Systems">
   &nbsp;
-  <img src="https://img.shields.io/badge/Meta_Front_End_Developer-0668E1?style=for-the-badge&logo=meta&logoColor=fff" alt="Meta">
-  &nbsp;
-  <img src="https://img.shields.io/badge/Google_Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=fff" alt="Google Cybersecurity">
+  <img src="https://shields.io" alt="Co-Design">
 </p>
+
 
 ---
 
