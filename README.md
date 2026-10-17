@@ -24,22 +24,21 @@
 ```yaml
 name: Abdul Haiy
 location: Jabalpur, India 🇮🇳
-education: B.Tech Computer Science (2026–2030)
-current: Freelance Full-Stack Developer & Security Researcher
+education: B.Tech Electronics and Communication Engineering (2026–2030)
+current: Aspiring RTL Design Engineer | Freelance Full-Stack Developer 
 
 fields_of_interest:
+  - RTL Design & Verification
+  - Digital Systems & Computer Architecture
   - Full-Stack Web Development
-  - Cybersecurity & Vulnerability Research
-  - AI/ML Engineering
-  - Blockchain & Web3
-  - Open Source Software
+  - Open Source Software & Hardware Automation
 
 achievements:
-  - 1st Place  · AI Innovation Challenge, Techfest India 2024
-  - 2nd Place · Blockchain Hackathon, ETHIndia 2024
-  - Top 10    · Smart India Hackathon, Govt. of India 2024
+  - Developed and verified open-source digital circuit blocks using Icarus Verilog
+  - Built full-stack software architectures and open-source CLI tooling
+  - Maintained an active codebase profile spanning multiple software stacks
 
-philosophy: "Talk is cheap. Show me the code."
+philosophy: "Talk is cheap. Show me the code. Or better yet, show me the testbench."
 ```
 
 ---
