@@ -59,10 +59,11 @@ philosophy: "Talk is cheap. Show me the code. Or better yet, show me the testben
 ## 🛠️ Tech Stack
 
 ### 💻 Hardware Description & Verification
-![Verilog](https://shields.io🚀?style=flat-square&color=2C3E50)
+![Verilog](https://shields.io)
 ![Icarus Verilog](https://shields.io)
 ![GTKWave](https://shields.io)
 ![Digital Circuit Design](https://shields.io)
+
 
 ### ⚙️ Systems Languages & Automation
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=fff)
