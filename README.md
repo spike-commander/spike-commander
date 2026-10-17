@@ -120,9 +120,9 @@ philosophy: "Talk is cheap. Show me the code. Or better yet, show me the testben
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
-| [**iverilog-practice**](https://github.com) | Digital circuit simulation, custom RTL descriptions, and structural/behavioral verification testbenches | Verilog, Icarus Verilog |
-| [**Hand-Gesture-Game-Control**](https://github.com) | Real-time computer vision system utilizing hand landmark tracking to automate live gameplay actions | Python, MediaPipe, OpenCV |
-| [**ChainFair**](https://github.com) | Decentralized agricultural supply chain DApp built to map crop trade economics with cryptographic data splits | Solidity, Web3, React |
+| [**iverilog-practice**](https://github.com/spike-commander/verilog-digital-design) | Digital circuit simulation, custom RTL descriptions, and structural/behavioral verification testbenches | Verilog, Icarus Verilog |
+| [**Hand-Gesture-Game-Control**](https://github.com/spike-commander/Hand-Gesture-Game-Control) | Real-time computer vision system utilizing hand landmark tracking to automate live gameplay actions | Python, MediaPipe, OpenCV |
+| [**ChainFair**](https://github.com/spike-commander/ChainFair) | Decentralized agricultural supply chain DApp built to map crop trade economics with cryptographic data splits | Solidity, Web3, React |
 
 </div>
 
