@@ -120,9 +120,9 @@ philosophy: "Talk is cheap. Show me the code. Or better yet, show me the testben
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
-| [**Hand-Gesture-Game-Control**](https://github.com/spike-commander/hand-gesture-game-control) | Real-time hand gesture recognition for gaming | Python, MediaPipe, OpenCV |
-| [**ChainFair**](https://github.com/spike-commander/chainfair) | Blockchain-based transparent DApp | Solidity, Web3, React |
-| [**Android Chat Application**](https://github.com/bimalkaf/Android_Chat_Application) | Open source real-time messaging | Kotlin, Firebase |
+| [**iverilog-practice**](https://github.com) | Digital circuit simulation, custom RTL descriptions, and structural/behavioral verification testbenches | Verilog, Icarus Verilog |
+| [**Hand-Gesture-Game-Control**](https://github.com) | Real-time computer vision system utilizing hand landmark tracking to automate live gameplay actions | Python, MediaPipe, OpenCV |
+| [**ChainFair**](https://github.com) | Decentralized agricultural supply chain DApp built to map crop trade economics with cryptographic data splits | Solidity, Web3, React |
 
 </div>
 
