@@ -55,7 +55,6 @@ I am a **B.Tech Electronics and Communication Engineering** student (2026–2030
 
 ### 🤝 Connect With Me
 
-* **Portfolio:** [spike-commander.github.io](https://spike-commander.github.io/)
 * **LinkedIn:** [in/spike-commander](https://www.linkedin.com/in/spike-commander/)
 * **X (Twitter):** [@abdulhaiy1502](https://x.com/abdulhaiy1502)
 * **Email:** [abdulhaiy1502@gmail.com](mailto:abdulhaiy1502@gmail.com)
