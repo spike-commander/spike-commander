@@ -109,13 +109,13 @@ philosophy: "Talk is cheap. Show me the code. Or better yet, show me the testben
 ## 📈 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Lines of code](https://shields.io)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-214.22%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 31.0 kB Used in GitHub's Storage 
+> 📦 30.8 kB Used in GitHub's Storage 
  > 
-> 🏆 457 Contributions in the Year 2026
+> 🏆 465 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -126,22 +126,23 @@ philosophy: "Talk is cheap. Show me the code. Or better yet, show me the testben
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                73 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-🌆 Daytime                357 commits         ███████████████░░░░░░░░░░   58.81 % 
-🌃 Evening                177 commits         ███████░░░░░░░░░░░░░░░░░░   29.16 % 
+🌞 Morning                73 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+🌆 Daytime                370 commits         ███████████████░░░░░░░░░░   59.97 % 
+🌃 Evening                174 commits         ███████░░░░░░░░░░░░░░░░░░   28.20 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   52 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-Tuesday                  162 commits         ███████░░░░░░░░░░░░░░░░░░   26.69 % 
-Wednesday                87 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-Thursday                 86 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-Friday                   56 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
-Saturday                 88 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-Sunday                   76 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
+Monday                   53 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
+Tuesday                  165 commits         ███████░░░░░░░░░░░░░░░░░░   26.74 % 
+Wednesday                84 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+Thursday                 84 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+Friday                   56 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+Saturday                 95 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
+Sunday                   80 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
 ```
+
 
 📊 **This Week I Spent My Time On** 
 
@@ -167,21 +168,24 @@ No Activity Tracked This Week
 No AI Coding Activity Tracked This Week
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in HTML** 
 
 ```text
-JavaScript               9 repos             ███████░░░░░░░░░░░░░░░░░░   29.03 % 
 HTML                     9 repos             ███████░░░░░░░░░░░░░░░░░░   29.03 % 
+JavaScript               9 repos             ███████░░░░░░░░░░░░░░░░░░   29.03 % 
 TypeScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
 Python                   4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
 Verilog                  1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 ```
 
+
+
 **Timeline**
 
-![Lines of Code chart](https://githubusercontent.com)
+![Lines of Code chart](https://raw.githubusercontent.com/spike-commander/spike-commander/main/assets/bar_graph.png)
 
- Last Updated on 11/10/2026 04:26:52 UTC
+
+ Last Updated on 18/10/2026 03:23:03 UTC
 <!--END_SECTION:waka-->
 
 ---
