@@ -1,219 +1,64 @@
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://vercel.app">
-    <img src="https://vercel.app" width="100%">
-  </picture>
-</div>
+# Hey there, I'm Abdul Haiy! 👋 
 
-<div align="center">
-  
-  **`Aspiring RTL Design Engineer | VLSI & Avionics Enthusiast | Full-Stack Developer`**
-  
-  <a href="https://github.io"><img src="https://shields.io" alt="Portfolio"></a>
-  <a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn"></a>
-  <a href="https://x.com"><img src="https://shields.io" alt="X"></a>
-  <a href="mailto:abdulhaiy1502@gmail.com"><img src="https://shields.io" alt="Email"></a>
+### Aspiring RTL Design Engineer | VLSI & Avionics Enthusiast | Full-Stack Developer
 
-</div>
+I am a **B.Tech Electronics and Communication Engineering** student (2026–2030) based in Jabalpur, India. I bridge the gap between hardware description and full-stack software development, focusing on building high-performance architectures and automation tools.
+
+> 💬 **Philosophy:** "Talk is cheap. Show me the code. Or better yet, show me the testbench."
 
 ---
 
-## 👨‍💻 About Me
+### 🛠️ Tech Stack & Tooling
 
-```yaml
-name: Abdul Haiy
-location: Jabalpur, India 🇮🇳
-education: B.Tech Electronics and Communication Engineering (2026–2030)
-current: Aspiring RTL Design Engineer | Freelance Full-Stack Developer 
+#### 💻 Hardware Description & Verification
+* **Languages:** Verilog
+* **Tools:** Icarus Verilog (iverilog), GTKWave
+* **Domains:** Digital Circuit Design, Computer Architecture, RTL Verification
 
-fields_of_interest:
-  - RTL Design & Verification
-  - Digital Systems & Computer Architecture
-  - Full-Stack Web Development
-  - Open Source Software & Hardware Automation
+#### ⚙️ Systems & Automation
+* **Languages:** Python, C/C++, Go, TypeScript, JavaScript
+* **Environment:** Linux, Shell Scripting
 
-achievements:
-  - Developed and verified open-source digital circuit blocks using Icarus Verilog
-  - Built full-stack software architectures and open-source CLI tooling
-  - Maintained an active codebase profile spanning multiple software stacks
-
-philosophy: "Talk is cheap. Show me the code. Or better yet, show me the testbench."
-```
+#### 🌐 Full-Stack Architecture
+* **Frontend:** React, Next.js, HTML5, CSS3
+* **Backend:** Node.js, FastAPI
+* **Databases & DevOps:** PostgreSQL, Docker
 
 ---
 
-## 📊 GitHub Analytics
+### 🚀 Featured Projects
 
-<div align="center">
+* **iverilog-practice**
+  * Custom RTL descriptions and structural/behavioral verification testbenches.
+  * *Stack:* Verilog, Icarus Verilog
 
-| Streak | Activity |
-|:------:|:--------:|
-| ![GitHub Streak](https://demolab.com) | ![GitHub Activity](https://vercel.app) |
+* **Hand-Gesture-Game-Control**
+  * Real-time computer vision system utilizing hand landmark tracking to automate live gameplay actions for Subway Surfers.
+  * *Stack:* Python, MediaPipe, OpenCV
 
-</div>
+* **ChainFair**
+  * Decentralized agricultural supply chain DApp mapping crop trade economics with cryptographic data splits.
+  * *Stack:* Solidity, Web3, React, JavaScript
 
----
-
-## 🛠️ Tech Stack
-
-### 💻 Hardware Description & Verification
-![Verilog](https://shields.io)
-![Icarus Verilog](https://shields.io)
-![GTKWave](https://shields.io)
-![Digital Circuit Design](https://shields.io)
-
-### ⚙️ Systems Languages & Automation
-![Python](https://shields.io)
-![C / C++](https://shields.io)
-![TypeScript](https://shields.io)
-![JavaScript](https://shields.io)
-![Go](https://shields.io)
-![Linux](https://shields.io)
-
-### 🌐 Full-Stack Architecture
-![React](https://shields.io)
-![Next.js](https://shields.io)
-![Node.js](https://shields.io)
-![FastAPI](https://shields.io)
-![PostgreSQL](https://shields.io)
-![Docker](https://shields.io)
+* **FRIDAY-CLI**
+  * A voice and text-based AI assistant built directly for the command line interface.
+  * *Stack:* TypeScript, Google Gemini API, Groq
 
 ---
 
-## 📜 Focus & Core Areas
-
-<p align="center">
-  <img src="https://shields.io" alt="RTL Design">
-  &nbsp;
-  <img src="https://shields.io" alt="Digital Systems">
-  &nbsp;
-  <img src="https://shields.io" alt="Co-Design">
-</p>
+### 📈 Achievements
+* **Digital Blocks:** Developed and verified open-source digital circuit blocks using Icarus Verilog.
+* **CLI Tooling:** Architected and deployed full-stack software and open-source command-line automation tools.
+* **Polyglot Codebase:** Maintained an active development profile bridging hardware description and modern web stacks.
 
 ---
 
-## 🚀 Featured Projects
+### 🤝 Connect With Me
 
-<div align="center">
-
-| Project | Description | Stack |
-|:--------|:------------|:------|
-| [**iverilog-practice**](https://github.com) | Digital circuit simulation, custom RTL descriptions, and structural/behavioral verification testbenches | Verilog, Icarus Verilog |
-| [**Hand-Gesture-Game-Control**](https://github.com) | Real-time computer vision system utilizing hand landmark tracking to automate live gameplay actions | Python, MediaPipe, OpenCV |
-| [**ChainFair**](https://github.com) | Decentralized agricultural supply chain DApp built to map crop trade economics with cryptographic data splits | Solidity, Web3, React |
-
-</div>
+* **Portfolio:** [spike-commander.github.io](https://spike-commander.github.io/)
+* **LinkedIn:** [in/spike-commander](https://www.linkedin.com/in/spike-commander/)
+* **X (Twitter):** [@abdulhaiy1502](https://x.com/abdulhaiy1502)
+* **Email:** [abdulhaiy1502@gmail.com](mailto:abdulhaiy1502@gmail.com)
 
 ---
-
-## 📈 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-214.22%20thousand%20lines%20of%20code-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 30.8 kB Used in GitHub's Storage 
- > 
-> 🏆 465 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 27 Public Repositories 
- > 
-> 🔑 6 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                73 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-🌆 Daytime                370 commits         ███████████████░░░░░░░░░░   59.97 % 
-🌃 Evening                174 commits         ███████░░░░░░░░░░░░░░░░░░   28.20 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   53 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
-Tuesday                  165 commits         ███████░░░░░░░░░░░░░░░░░░   26.74 % 
-Wednesday                84 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
-Thursday                 84 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
-Friday                   56 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
-Saturday                 95 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
-Sunday                   80 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-**I Mostly Code in HTML** 
-
-```text
-HTML                     9 repos             ███████░░░░░░░░░░░░░░░░░░   29.03 % 
-JavaScript               9 repos             ███████░░░░░░░░░░░░░░░░░░   29.03 % 
-TypeScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-Python                   4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-Verilog                  1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/spike-commander/spike-commander/main/assets/bar_graph.png)
-
-
- Last Updated on 18/10/2026 03:23:03 UTC
-<!--END_SECTION:waka-->
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
-    <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
-    <img alt="Contribution snake animation" src="https://githubusercontent.com">
-  </picture>
-</div>
-
----
-
-<div align="center">
-  
-  <img src="https://vercel.app" alt="Random dev quote">
-  
-  <br><br>
-  
-  <img src="https://komarev.com" alt="Profile views">
-  
-  <br><br>
-  
-  *Thanks for visiting! Feel free to connect or collaborate.* 🚀
-  
-  [⬆ Back to top](#)
-
-</div>
+⚡ *Thanks for stopping by! Feel free to reach out if you want to collaborate on open-source hardware automation or full-stack web applications.*
