@@ -12,7 +12,7 @@ I am a **B.Tech Electronics and Communication Engineering** student (2026–2030
 
 #### 💻 Hardware Description & Verification
 * **Languages:** Verilog
-* **Tools:** Icarus Verilog (iverilog), GTKWave
+* **Tools:** Icarus Verilog (iverilog), Surfer
 * **Domains:** Digital Circuit Design, Computer Architecture, RTL Verification
 
 #### ⚙️ Systems & Automation
